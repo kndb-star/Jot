@@ -1,0 +1,6 @@
+@JotBot_HostAddress = http://localhost:5176
+
+GET {{JotBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
